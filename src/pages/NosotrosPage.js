@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/components/pages/NosotrosPage.css";
 
 const nosotros1 =  'images/nosotros/nosotros1.jpg';
 const nosotros2 =  'images/nosotros/nosotros2.jpg';

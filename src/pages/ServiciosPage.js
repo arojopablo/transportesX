@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/components/pages/serviciosPage.css";
 
 const aereo =  'images/servicios/aereo.jpg';
 const ferroviario =  'images/servicios/ferroviario.jpg';

@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/components/pages/galeriaPage.css";
 
 const img01 =  'images/galeria/img01.jpg';
 const img02 =  'images/galeria/img02.jpg';
